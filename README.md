@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Banner]([/image/github_banner.png](https://github.com/iggycutee/iggycutee/blob/main/header.png))
 
 
 # 📊 GitHub Stats:
