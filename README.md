@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](header.png))
+![Banner](header.png)
 
 
 # 📊 GitHub Stats:
