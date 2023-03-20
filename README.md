@@ -25,7 +25,7 @@ Data Engineer
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phuwasit.chokwiriyadit@gmail.com](mailto:phuwasit.chokwiriyadit@gmail.com)
-* 🧠  I'm learning Data Engineer with Python track on DataCamp
+* 🧠  I'm currently learning the Data Engineer with Python track on DataCamp
 
 ### Skills
 
