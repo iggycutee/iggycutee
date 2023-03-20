@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Data Engineer
 -------------
-
+I'm a recent data engineering graduate with experience in data architecture, ETL processes, and data warehousing. I'm proficient in Python, SQL, Hadoop, Spark, and Kafka. Passionate about using data to drive insights and make informed decisions. Looking forward to contributing to real-world projects and continuing to learn and grow in the field.
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [phuwasit.chokwiriyadit@gmail.com](mailto:phuwasit.chokwiriyadit@gmail.com)
 * 🧠  I'm currently learning the Data Engineer with Python track on DataCamp
